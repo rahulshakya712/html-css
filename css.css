@@ -1,0 +1,59 @@
+h1{
+    display: inline-block;
+    color:blue;
+    background-color: aqua;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-family: Nunito;
+    font-style: italic;
+    font-style: initial;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    
+
+    
+}
+p{
+    text-indent: 50px;
+}
+h2{
+    display: inline-block;
+    color:rgb(21, 0, 128);
+   /* color: green;*/
+    background-color: lime;
+    text-align: center;
+    font-size: 100px;
+    border: 9px solid red;
+    border-top: 9px solid cornflowerblue;
+    border-right: 11px solid rgb(153, 116, 51);
+    border-bottom: 13px solid gold ;
+    border-left: 14px solid red;
+    margin: 0 0 0 140px;
+    text-shadow: 5px 2px 1px orangered;
+    box-shadow: 10px 10px 5px 2px purple;
+    border-radius: 10px 20px 50px 60px;
+
+
+}
+*{
+    color: red;
+    
+}
+h2:hover{
+    color: green;
+    background: #000;
+    text-align: right;
+    font-size: 150px;
+
+}
+div{
+    height: 100%;
+    width: 100%;
+    color :aqua;
+    background-color: blue;
+}
